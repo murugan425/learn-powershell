@@ -1,0 +1,1 @@
+powershell -command "& 'C:\Users\murugan_nagarajan\Desktop\Toggle_Proxy.ps1'"

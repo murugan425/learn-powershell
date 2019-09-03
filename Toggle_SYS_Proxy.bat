@@ -1,0 +1,1 @@
+powershell -command "& 'C:\Users\murugan_nagarajan\OneDrive - Infosys Limited\Learning\powershell\Toggle_SYS_Proxy.ps1'"
